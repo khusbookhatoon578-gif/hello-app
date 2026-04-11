@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82f001bd-52bd-47fa-a9eb-98be1181874d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HelloUC2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,9 +68,16 @@
       <recent name="C:\Users\Khusboo Khatoon\IdeaProjects\hello-app\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloApp">
+  <component name="RunManager" selected="Application.HelloUC2">
     <configuration name="HelloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloApp" />
+      <module name="hello-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloUC2" />
       <module name="hello-app" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloUC2" />
         <item itemvalue="Application.HelloApp" />
       </list>
     </recent_temporary>
@@ -94,7 +108,7 @@
       <workItem from="1774965955542" duration="208000" />
       <workItem from="1775914077644" duration="978000" />
       <workItem from="1775916243723" duration="247000" />
-      <workItem from="1775916597050" duration="655000" />
+      <workItem from="1775916597050" duration="1004000" />
     </task>
     <servers />
   </component>
