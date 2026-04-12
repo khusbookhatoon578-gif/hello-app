@@ -76,14 +76,7 @@
       <recent name="C:\Users\Khusboo Khatoon\IdeaProjects\hello-app\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloUC6">
-    <configuration name="HelloUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloUC2" />
-      <module name="hello-app" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HelloUC7">
     <configuration name="HelloUC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloUC3" />
       <module name="hello-app" />
@@ -112,16 +105,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HelloUC7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloUC7" />
+      <module name="hello-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Khusboo" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloUC7" />
         <item itemvalue="Application.HelloUC6" />
         <item itemvalue="Application.HelloUC5" />
         <item itemvalue="Application.HelloUC4" />
         <item itemvalue="Application.HelloUC3" />
-        <item itemvalue="Application.HelloUC2" />
       </list>
     </recent_temporary>
   </component>
